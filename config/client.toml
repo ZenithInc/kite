@@ -1,0 +1,4 @@
+local_addr = "127.0.0.1:8888"
+server_addr = "http://ip:1024"
+auth_key = "JHGPKDxengBeeyoK"
+mode = "Http"
